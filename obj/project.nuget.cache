@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "upqF8zc7NAzyGRrN7IhRHAz75hSC5p47Lw3rtkbFRG6O2zqBn5UbheYmTArJB3FeXvLW9qKznO1stKWZ4pIPnA==",
+  "dgSpecHash": "sI3838pm937AOGZBJBoH4S7Hwpw2+86UQZpIlnijSEVZsh7SkjkQk9fsI/EN3j4gEjMBlGHdG5GatsIdmnzZlg==",
   "success": true,
   "projectFilePath": "/Users/alainseys/Documents/Development/Dotnet/getjsonsettings/getjsonsettings.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/alainseys/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
