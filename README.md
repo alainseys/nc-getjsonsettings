@@ -1,6 +1,13 @@
 # nc-getjsonsettings
 With this solution you will be abble to loop troug a json settings file and call all the diferent key settings
 
+##Clone the project
+clone the project in github and open the project file (*.sln) , check if the nuget packages are present in the project if not you should add the following
+```c#
+Microsoft.Extensions.Configuration;
+Micorosoft.Extension.Configuration.Binder;
+Microsoft.Extionsion.Configuration.json;
+```
 
 ##Adding keys
 Add you setting keys in the appsettings.json file with master slave relations see the example bellow we have FtpSettings , with as slave FTP_SERVER , FTP_USER, FTP_PASS these values we will loop trough.
