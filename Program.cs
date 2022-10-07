@@ -16,6 +16,8 @@ namespace getjsonsettings
             
             Console.Write(FTP_SERVER);
             Console.Write(FTP_USER);
+            
+            Log.Init("ERROR","dit is een test ");
  
         }
     }
